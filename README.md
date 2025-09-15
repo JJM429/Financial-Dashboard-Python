@@ -1,2 +1,2 @@
 # Financial-Dashboard-Python
-Python financial dashboard extracting and visualising stock and revenue data with yfinance, web scraping, Pandas, and Matplotlib. Automates data pipelines and builds interactive charts to compare company performance, simulating real-world data analysis and financial software workflows.
+A Python-based financial dashboard that extracts, processes, and visualises real-world stock and revenue data. Built with yfinance, web scraping, Pandas, and Matplotlib, the project integrates automated data pipelines with interactive charts to analyse and compare company performance over time. Designed to simulate industry-grade data workflows and strengthen skills in data engineering, analytics, and financial software development.
